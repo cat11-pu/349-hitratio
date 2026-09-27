@@ -1,0 +1,14 @@
+{
+  "budget": 1,
+  "bad_name_code": "E_BAD_NAME",
+  "no_name_code": "E_NO_NAME",
+  "event_error_code": "E_BAD_EVENT",
+  "state": { "counters": [], "ratios": [], "ledger": [], "applied": [] },
+  "events": [
+    { "id": 1, "kind": "hit", "name": "a" },
+    { "id": 2, "kind": "miss", "name": "a" },
+    { "id": 3, "kind": "hit", "name": "a" },
+    { "id": 4, "kind": "report", "name": "a" },
+    { "id": 5, "kind": "hit", "name": "b" }
+  ]
+}
